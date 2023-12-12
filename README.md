@@ -1,2 +1,8 @@
 # car-sales
-attempting to analyze car sales using various ML techniques
+Analyzing Car Sales through Clustering and Regression
+
+# download the data
+https://www.kaggle.com/datasets/gagandeep16/car-sales
+put the archive.zip into the folder and it should work
+
+
